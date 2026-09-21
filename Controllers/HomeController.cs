@@ -7,7 +7,22 @@ using System.Web.Mvc;
 namespace lab1_25DH190025_NguyenHuynhHongQuan.Controllers
 {
     public class HomeController : Controller
+
     {
+        public ActionResult BT1()
+        {
+            return View();
+        }
+
+        public ActionResult BT2()
+        {
+            return View();
+        }
+
+        public ActionResult BT3()
+        {
+            return View();
+        }
         public ActionResult Index()
         {
             return View();
