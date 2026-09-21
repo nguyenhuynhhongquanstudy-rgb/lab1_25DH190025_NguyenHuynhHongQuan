@@ -23,6 +23,18 @@ namespace lab1_25DH190025_NguyenHuynhHongQuan.Controllers
         {
             return View();
         }
+        public ActionResult BT4()
+        {
+            return View();
+        }
+        public ActionResult BT5()
+        {
+            return View();
+        }
+        public ActionResult BT6()
+        {
+            return View();
+        }
         public ActionResult Index()
         {
             return View();

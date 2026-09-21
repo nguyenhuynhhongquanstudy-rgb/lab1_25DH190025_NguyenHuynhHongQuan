@@ -181,6 +181,8 @@
     <Content Include="Views\Home\BT2.cshtml" />
     <Content Include="Views\Home\BT3.cshtml" />
     <Content Include="Views\Home\BT4.cshtml" />
+    <Content Include="Views\Home\BT5.cshtml" />
+    <Content Include="Views\Home\BT6.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
